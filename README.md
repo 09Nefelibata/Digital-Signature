@@ -11,8 +11,8 @@ How It Works
 Usage
 
     you need to generate private and public key by using keygen.py
-    you need to signed a document with the help of default.py
-    you can now verify that your signature is valid or not.
+    you need to signed a document (replace documents.txt with your document) with the help of default.py
+    you can now verify that your signature is valid or not.(Replace documents.txt with your original document)
 
 Security Considerations
 
